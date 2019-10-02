@@ -1,279 +1,141 @@
-============================================================
+===========================================================
 Notices for file(s):
-emulator
-emulator-check
-bin64/e2fsck
-bin64/fsck.ext4
-bin64/tune2fs
-bin64/resize2fs
-bin64/mkfs.ext4
-qemu/linux-x86_64/qemu-system-armel
-qemu/linux-x86_64/qemu-upstream-mips64el
-qemu/linux-x86_64/qemu-system-i386
-qemu/linux-x86_64/qemu-upstream-x86_64
-qemu/linux-x86_64/qemu-upstream-i386
-qemu/linux-x86_64/qemu-system-x86_64
-qemu/linux-x86_64/qemu-upstream-mipsel
-qemu/linux-x86_64/qemu-system-mipsel
-qemu/linux-x86_64/qemu-upstream-armel
-qemu/linux-x86_64/qemu-system-aarch64
-qemu/linux-x86_64/qemu-system-mips64el
-qemu/linux-x86_64/qemu-upstream-aarch64
-qemu/linux-x86_64/qemu-system-armel
-qemu/linux-x86_64/qemu-upstream-mips64el
-qemu/linux-x86_64/qemu-system-i386
-qemu/linux-x86_64/qemu-upstream-x86_64
-qemu/linux-x86_64/qemu-upstream-i386
-qemu/linux-x86_64/qemu-system-x86_64
-qemu/linux-x86_64/qemu-upstream-mipsel
-qemu/linux-x86_64/qemu-system-mipsel
-qemu/linux-x86_64/qemu-upstream-armel
-qemu/linux-x86_64/qemu-system-aarch64
-qemu/linux-x86_64/qemu-system-mips64el
-qemu/linux-x86_64/qemu-upstream-aarch64
-lib/advancedFeatures.ini
-lib/pc-bios/keymaps/en-us
-lib/pc-bios/keymaps/fi
-lib/pc-bios/keymaps/th
-lib/pc-bios/keymaps/lv
-lib/pc-bios/keymaps/fr-ca
-lib/pc-bios/keymaps/mk
-lib/pc-bios/keymaps/hr
-lib/pc-bios/keymaps/common
-lib/pc-bios/keymaps/it
-lib/pc-bios/keymaps/cz
-lib/pc-bios/keymaps/fo
-lib/pc-bios/keymaps/sl
-lib/pc-bios/keymaps/de
-lib/pc-bios/keymaps/sv
-lib/pc-bios/keymaps/et
-lib/pc-bios/keymaps/en-gb
-lib/pc-bios/keymaps/no
-lib/pc-bios/keymaps/pt-br
-lib/pc-bios/keymaps/nl
-lib/pc-bios/keymaps/fr-ch
-lib/pc-bios/keymaps/hu
-lib/pc-bios/keymaps/tr
-lib/pc-bios/keymaps/da
-lib/pc-bios/keymaps/es
-lib/pc-bios/keymaps/fr-be
-lib/pc-bios/keymaps/pl
-lib/pc-bios/keymaps/is
-lib/pc-bios/keymaps/bepo
-lib/pc-bios/keymaps/de-ch
-lib/pc-bios/keymaps/fr
-lib/pc-bios/keymaps/lt
-lib/pc-bios/keymaps/ru
-lib/pc-bios/keymaps/modifiers
-lib/pc-bios/keymaps/ja
-lib/pc-bios/keymaps/ar
-lib/pc-bios/keymaps/nl-be
-lib/pc-bios/keymaps/pt
-lib/pc-bios/efi-virtio.rom
-lib/pc-bios/kvmvapic.bin
-lib/pc-bios/bios-256k.bin
-lib/pc-bios/vgabios-virtio.bin
-lib/pc-bios/bios.bin
-lib/pc-bios/vgabios-cirrus.bin
-lib/pc-bios/linuxboot_dma.bin
-lib/pc-bios/linuxboot.bin
-lib/ca-bundle.pem
-lib/libstdc++/libstdc++.so.6
-lib/libstdc++/libstdc++.so.6.0.19
-lib64/qt/plugins/generic/libqevdevmouseplugin.so
-lib64/qt/plugins/generic/libqevdevtabletplugin.so
-lib64/qt/plugins/generic/libqevdevtouchplugin.so
-lib64/qt/plugins/generic/libqevdevkeyboardplugin.so
-lib64/qt/plugins/generic/libqtuiotouchplugin.so
-lib64/qt/plugins/bearer/libqnmbearer.so
-lib64/qt/plugins/bearer/libqgenericbearer.so
-lib64/qt/plugins/bearer/libqconnmanbearer.so
-lib64/qt/plugins/iconengines/libqsvgicon.so
-lib64/qt/plugins/sqldrivers/libqsqlite.so
-lib64/qt/plugins/imageformats/libqico.so
-lib64/qt/plugins/imageformats/libqgif.so
-lib64/qt/plugins/imageformats/libqsvg.so
-lib64/qt/plugins/imageformats/libqtga.so
-lib64/qt/plugins/imageformats/libqtiff.so
-lib64/qt/plugins/imageformats/libqwbmp.so
-lib64/qt/plugins/imageformats/libqicns.so
-lib64/qt/plugins/imageformats/libqjpeg.so
-lib64/qt/plugins/imageformats/libqwebp.so
-lib64/qt/plugins/imageformats/libqdds.so
-lib64/qt/plugins/platforms/libqxcb.so
-lib64/qt/plugins/platforms/libqminimal.so
-lib64/qt/plugins/platforms/libqoffscreen.so
-lib64/qt/plugins/platforms/libqlinuxfb.so
-lib64/qt/plugins/platforminputcontexts/libcomposeplatforminputcontextplugin.so
-lib64/qt/plugins/platforminputcontexts/libibusplatforminputcontextplugin.so
-lib64/qt/lib/libQt5Widgets.so.5.7.0
-lib64/qt/lib/libQt5PrintSupport.so.5.7
-lib64/qt/lib/libQt5Concurrent.so.5
-lib64/qt/lib/libQt5PrintSupport.so.5.7.0
-lib64/qt/lib/libQt5XcbQpa.so.5.7.0
-lib64/qt/lib/libQt5Test.so.5
-lib64/qt/lib/libQt5DBus.so
-lib64/qt/lib/libQt5Gui.so.5.7
-lib64/qt/lib/libQt5DBus.so.5
-lib64/qt/lib/libQt5OpenGL.so
-lib64/qt/lib/libQt5Sql.so.5.7
-lib64/qt/lib/libQt5Network.so.5.7.0
-lib64/qt/lib/libQt5Svg.so.5
-lib64/qt/lib/libQt5Core.so.5
-lib64/qt/lib/libQt5Svg.so
-lib64/qt/lib/libQt5DBus.so.5.7.0
-lib64/qt/lib/libQt5Xml.so.5.7
-lib64/qt/lib/libQt5XcbQpa.so
-lib64/qt/lib/libQt5Xml.so.5.7.0
-lib64/qt/lib/libQt5Core.so
-lib64/qt/lib/libQt5PrintSupport.so
-lib64/qt/lib/libQt5Gui.so.5.7.0
-lib64/qt/lib/libQt5Xml.so.5
-lib64/qt/lib/libQt5Test.so.5.7.0
-lib64/qt/lib/libQt5Svg.so.5.7.0
-lib64/qt/lib/libQt5Network.so.5.7
-lib64/qt/lib/libQt5Sql.so.5.7.0
-lib64/qt/lib/libQt5Gui.so.5
-lib64/qt/lib/libQt5XcbQpa.so.5.7
-lib64/qt/lib/libQt5Test.so
-lib64/qt/lib/libQt5Widgets.so
-lib64/qt/lib/libQt5OpenGL.so.5.7.0
-lib64/qt/lib/libQt5Concurrent.so
-lib64/qt/lib/libQt5Core.so.5.7
-lib64/qt/lib/libQt5Test.so.5.7
-lib64/qt/lib/libQt5Sql.so.5
-lib64/qt/lib/libQt5Concurrent.so.5.7.0
-lib64/qt/lib/libQt5OpenGL.so.5
-lib64/qt/lib/libQt5PrintSupport.so.5
-lib64/qt/lib/libQt5Concurrent.so.5.7
-lib64/qt/lib/libQt5Sql.so
-lib64/qt/lib/libQt5Network.so.5
-lib64/qt/lib/libQt5Widgets.so.5.7
-lib64/qt/lib/libQt5Widgets.so.5
-lib64/qt/lib/libQt5Network.so
-lib64/qt/lib/libQt5DBus.so.5.7
-lib64/qt/lib/libQt5Core.so.5.7.0
-lib64/qt/lib/libQt5Svg.so.5.7
-lib64/qt/lib/libQt5Xml.so
-lib64/qt/lib/libQt5OpenGL.so.5.7
-lib64/qt/lib/libQt5Gui.so
-lib64/qt/lib/libQt5XcbQpa.so.5
-lib64/gles_swiftshader/libGLES_CM.so
-lib64/gles_swiftshader/libEGL.so
-lib64/gles_swiftshader/libGLESv2.so
-lib64/lib64OpenglRender.so
-lib64/lib64GLES_CM_translator.so
-lib64/lib64EGL_translator.so
-lib64/gles_mesa/libGL.so.1
-lib64/gles_mesa/libGL.so
-lib64/lib64GLES_V2_translator.so
-lib64/lib64GLES12Translator.so
-lib64/lib64emugl_test_shared_library.so
-lib64/libstdc++/libstdc++.so.6
-lib64/libstdc++/libstdc++.so.6.0.19
-lib64/qt/plugins/generic/libqevdevmouseplugin.so
-lib64/qt/plugins/generic/libqevdevtabletplugin.so
-lib64/qt/plugins/generic/libqevdevtouchplugin.so
-lib64/qt/plugins/generic/libqevdevkeyboardplugin.so
-lib64/qt/plugins/generic/libqtuiotouchplugin.so
-lib64/qt/plugins/bearer/libqnmbearer.so
-lib64/qt/plugins/bearer/libqgenericbearer.so
-lib64/qt/plugins/bearer/libqconnmanbearer.so
-lib64/qt/plugins/iconengines/libqsvgicon.so
-lib64/qt/plugins/sqldrivers/libqsqlite.so
-lib64/qt/plugins/imageformats/libqico.so
-lib64/qt/plugins/imageformats/libqgif.so
-lib64/qt/plugins/imageformats/libqsvg.so
-lib64/qt/plugins/imageformats/libqtga.so
-lib64/qt/plugins/imageformats/libqtiff.so
-lib64/qt/plugins/imageformats/libqwbmp.so
-lib64/qt/plugins/imageformats/libqicns.so
-lib64/qt/plugins/imageformats/libqjpeg.so
-lib64/qt/plugins/imageformats/libqwebp.so
-lib64/qt/plugins/imageformats/libqdds.so
-lib64/qt/plugins/platforms/libqxcb.so
-lib64/qt/plugins/platforms/libqminimal.so
-lib64/qt/plugins/platforms/libqoffscreen.so
-lib64/qt/plugins/platforms/libqlinuxfb.so
-lib64/qt/plugins/platforminputcontexts/libcomposeplatforminputcontextplugin.so
-lib64/qt/plugins/platforminputcontexts/libibusplatforminputcontextplugin.so
-lib64/qt/lib/libQt5Widgets.so.5.7.0
-lib64/qt/lib/libQt5PrintSupport.so.5.7
-lib64/qt/lib/libQt5Concurrent.so.5
-lib64/qt/lib/libQt5PrintSupport.so.5.7.0
-lib64/qt/lib/libQt5XcbQpa.so.5.7.0
-lib64/qt/lib/libQt5Test.so.5
-lib64/qt/lib/libQt5DBus.so
-lib64/qt/lib/libQt5Gui.so.5.7
-lib64/qt/lib/libQt5DBus.so.5
-lib64/qt/lib/libQt5OpenGL.so
-lib64/qt/lib/libQt5Sql.so.5.7
-lib64/qt/lib/libQt5Network.so.5.7.0
-lib64/qt/lib/libQt5Svg.so.5
-lib64/qt/lib/libQt5Core.so.5
-lib64/qt/lib/libQt5Svg.so
-lib64/qt/lib/libQt5DBus.so.5.7.0
-lib64/qt/lib/libQt5Xml.so.5.7
-lib64/qt/lib/libQt5XcbQpa.so
-lib64/qt/lib/libQt5Xml.so.5.7.0
-lib64/qt/lib/libQt5Core.so
-lib64/qt/lib/libQt5PrintSupport.so
-lib64/qt/lib/libQt5Gui.so.5.7.0
-lib64/qt/lib/libQt5Xml.so.5
-lib64/qt/lib/libQt5Test.so.5.7.0
-lib64/qt/lib/libQt5Svg.so.5.7.0
-lib64/qt/lib/libQt5Network.so.5.7
-lib64/qt/lib/libQt5Sql.so.5.7.0
-lib64/qt/lib/libQt5Gui.so.5
-lib64/qt/lib/libQt5XcbQpa.so.5.7
-lib64/qt/lib/libQt5Test.so
-lib64/qt/lib/libQt5Widgets.so
-lib64/qt/lib/libQt5OpenGL.so.5.7.0
-lib64/qt/lib/libQt5Concurrent.so
-lib64/qt/lib/libQt5Core.so.5.7
-lib64/qt/lib/libQt5Test.so.5.7
-lib64/qt/lib/libQt5Sql.so.5
-lib64/qt/lib/libQt5Concurrent.so.5.7.0
-lib64/qt/lib/libQt5OpenGL.so.5
-lib64/qt/lib/libQt5PrintSupport.so.5
-lib64/qt/lib/libQt5Concurrent.so.5.7
-lib64/qt/lib/libQt5Sql.so
-lib64/qt/lib/libQt5Network.so.5
-lib64/qt/lib/libQt5Widgets.so.5.7
-lib64/qt/lib/libQt5Widgets.so.5
-lib64/qt/lib/libQt5Network.so
-lib64/qt/lib/libQt5DBus.so.5.7
-lib64/qt/lib/libQt5Core.so.5.7.0
-lib64/qt/lib/libQt5Svg.so.5.7
-lib64/qt/lib/libQt5Xml.so
-lib64/qt/lib/libQt5OpenGL.so.5.7
-lib64/qt/lib/libQt5Gui.so
-lib64/qt/lib/libQt5XcbQpa.so.5
-lib64/gles_swiftshader/libGLES_CM.so
-lib64/gles_swiftshader/libEGL.so
-lib64/gles_swiftshader/libGLESv2.so
-lib64/lib64OpenglRender.so
-lib64/lib64GLES_CM_translator.so
-lib64/lib64EGL_translator.so
-lib64/gles_mesa/libGL.so.1
-lib64/gles_mesa/libGL.so
-lib64/lib64GLES_V2_translator.so
-lib64/lib64GLES12Translator.so
-lib64/lib64emugl_test_shared_library.so
-resources/resources.rcc
-lib/pc-bios/bios.bin
-lib/pc-bios/vgabios-cirrus.bin
-emulator64-arm
-emulator64-mips
-emulator64-x86
-emulator64-crash-service
-emulator
-emulator-check
-emulator64-arm
-emulator64-mips
-emulator64-x86
-emulator64-crash-service
-------------------------------------------------------------
+/emulator/emulator64-crash-service
+/emulator/emulator-headless
+/emulator/qemu-img
+/emulator/emulator
+/emulator/mksdcard
+/emulator/android-info.txt
+/emulator/emulator-check
+/emulator/source.properties
+/emulator/lib64/libunwind.so.8
+/emulator/lib64/libGLES12Translator.so
+/emulator/lib64/libEGL_translator.so
+/emulator/lib64/libGLES_V2_translator.so
+/emulator/lib64/libc++.so.1
+/emulator/lib64/libOpenglRender.so
+/emulator/lib64/libc++.so
+/emulator/lib64/libemugl_common.so
+/emulator/lib64/libunwind-x86_64.so.8
+/emulator/lib64/libtcmalloc_minimal.so.4
+/emulator/lib64/libGLES_CM_translator.so
+/emulator/lib64/vulkan/glslangValidator
+/emulator/lib64/vulkan/libvulkan.so
+/emulator/lib64/vulkan/libvk_swiftshader.so
+/emulator/lib64/vulkan/libvulkan.so.1
+/emulator/lib64/vulkan/vk_swiftshader_icd.json
+/emulator/lib64/qt/plugins/iconengines/libqsvgicon.so
+/emulator/lib64/qt/plugins/imageformats/libqicns.so
+/emulator/lib64/qt/plugins/imageformats/libqwbmp.so
+/emulator/lib64/qt/plugins/imageformats/libqtga.so
+/emulator/lib64/qt/plugins/imageformats/libqwebp.so
+/emulator/lib64/qt/plugins/imageformats/libqsvg.so
+/emulator/lib64/qt/plugins/imageformats/libqjpeg.so
+/emulator/lib64/qt/plugins/imageformats/libqgif.so
+/emulator/lib64/qt/plugins/imageformats/libqico.so
+/emulator/lib64/qt/plugins/imageformats/libqtiff.so
+/emulator/lib64/qt/plugins/platforms/libqxcb.so
+/emulator/lib64/qt/plugins/platforminputcontexts/libcomposeplatforminputcontextplugin.so
+/emulator/lib64/qt/lib/libQt5PrintSupportAndroidEmu.so.5
+/emulator/lib64/qt/lib/libQt5GuiAndroidEmu.so.5
+/emulator/lib64/qt/lib/libsqlite3.so
+/emulator/lib64/qt/lib/libQt5DBusAndroidEmu.so.5
+/emulator/lib64/qt/lib/libQt5XcbQpaAndroidEmu.so.5
+/emulator/lib64/qt/lib/libQt5WidgetsAndroidEmu.so.5
+/emulator/lib64/qt/lib/libQt5CoreAndroidEmu.so.5
+/emulator/lib64/qt/lib/libxkbcommon.so.0.0.0
+/emulator/lib64/qt/lib/libQt5NetworkAndroidEmu.so.5
+/emulator/lib64/qt/lib/libsoftokn3.so
+/emulator/lib64/qt/lib/libQt5SvgAndroidEmu.so.5
+/emulator/lib64/qt/lib/libxkbcommon.so
+/emulator/lib64/qt/lib/libxkbcommon.so.0
+/emulator/lib64/qt/lib/libfreetype.so.6
+/emulator/lib64/gles_mesa/libGL.so
+/emulator/lib64/gles_mesa/libGL.so.1
+/emulator/lib64/gles_swiftshader/libGLES_CM.so
+/emulator/lib64/gles_swiftshader/libEGL.so
+/emulator/lib64/gles_swiftshader/libGLESv2.so
+/emulator/bin64/fsck.ext4
+/emulator/bin64/resize2fs
+/emulator/bin64/tune2fs
+/emulator/bin64/e2fsck
+/emulator/bin64/mkfs.ext4
+/emulator/resources/Toren1BD_Decor.png
+/emulator/resources/Toren1BD.obj
+/emulator/resources/Toren1BD_Main.png
+/emulator/resources/Toren1BD.mtl
+/emulator/resources/poster.png
+/emulator/resources/Toren1BD.posters
+/emulator/resources/macros/Track_horizontal_plane
+/emulator/resources/macros/Walk_to_image_room
+/emulator/resources/macros/Track_vertical_plane
+/emulator/resources/macros/Reset_position
+/emulator/resources/macroPreviews/Reset_position.mp4
+/emulator/resources/macroPreviews/Track_horizontal_plane.mp4
+/emulator/resources/macroPreviews/Track_vertical_plane.mp4
+/emulator/resources/macroPreviews/Walk_to_image_room.mp4
+/emulator/lib/ca-bundle.pem
+/emulator/lib/emu-original-feature-flags.protobuf
+/emulator/lib/advancedFeaturesCanary.ini
+/emulator/lib/advancedFeatures.ini
+/emulator/lib/hardware-properties.ini
+/emulator/lib/pc-bios/efi-e1000e.rom
+/emulator/lib/pc-bios/kvmvapic.bin
+/emulator/lib/pc-bios/vgabios-virtio.bin
+/emulator/lib/pc-bios/multiboot.bin
+/emulator/lib/pc-bios/vgabios-stdvga.bin
+/emulator/lib/pc-bios/linuxboot_dma.bin
+/emulator/lib/pc-bios/bios-256k.bin
+/emulator/lib/pc-bios/vgabios-cirrus.bin
+/emulator/lib/pc-bios/linuxboot.bin
+/emulator/lib/pc-bios/efi-virtio.rom
+/emulator/lib/pc-bios/efi-e1000.rom
+/emulator/lib/pc-bios/bios.bin
+/emulator/lib/pc-bios/keymaps/ar
+/emulator/lib/pc-bios/keymaps/pl
+/emulator/lib/pc-bios/keymaps/de
+/emulator/lib/pc-bios/keymaps/es
+/emulator/lib/pc-bios/keymaps/en-gb
+/emulator/lib/pc-bios/keymaps/pt
+/emulator/lib/pc-bios/keymaps/fr-ch
+/emulator/lib/pc-bios/keymaps/fr
+/emulator/lib/pc-bios/keymaps/nl
+/emulator/lib/pc-bios/keymaps/th
+/emulator/lib/pc-bios/keymaps/fr-ca
+/emulator/lib/pc-bios/keymaps/Makefile
+/emulator/lib/pc-bios/keymaps/it
+/emulator/lib/pc-bios/keymaps/hu
+/emulator/lib/pc-bios/keymaps/bepo
+/emulator/lib/pc-bios/keymaps/ru
+/emulator/lib/pc-bios/keymaps/de-ch
+/emulator/lib/pc-bios/keymaps/da
+/emulator/lib/pc-bios/keymaps/fo
+/emulator/lib/pc-bios/keymaps/sv
+/emulator/lib/pc-bios/keymaps/nl-be
+/emulator/lib/pc-bios/keymaps/cz
+/emulator/lib/pc-bios/keymaps/en-us
+/emulator/lib/pc-bios/keymaps/no
+/emulator/lib/pc-bios/keymaps/lt
+/emulator/lib/pc-bios/keymaps/et
+/emulator/lib/pc-bios/keymaps/modifiers
+/emulator/lib/pc-bios/keymaps/fr-be
+/emulator/lib/pc-bios/keymaps/fi
+/emulator/lib/pc-bios/keymaps/sl
+/emulator/lib/pc-bios/keymaps/mk
+/emulator/lib/pc-bios/keymaps/is
+/emulator/lib/pc-bios/keymaps/tr
+/emulator/lib/pc-bios/keymaps/hr
+/emulator/lib/pc-bios/keymaps/ja
+/emulator/lib/pc-bios/keymaps/lv
+/emulator/lib/pc-bios/keymaps/common
+/emulator/lib/pc-bios/keymaps/pt-br
+/emulator/qemu/linux-x86_64/qemu-system-i386
+/emulator/qemu/linux-x86_64/qemu-system-x86_64-headless
+/emulator/qemu/linux-x86_64/qemu-system-x86_64
+/emulator/qemu/linux-x86_64/qemu-system-armel
+/emulator/qemu/linux-x86_64/qemu-system-aarch64-headless
+/emulator/qemu/linux-x86_64/qemu-system-aarch64
+===========================================================
 		    GNU GENERAL PUBLIC LICENSE
 		       Version 2, June 1991
 
@@ -613,198 +475,3 @@ proprietary programs.  If your program is a subroutine library, you may
 consider it more useful to permit linking proprietary applications with the
 library.  If this is what you want to do, use the GNU Library General
 Public License instead of this License.
-
-============================================================
-Notices for file(s):
-mksdcard
-------------------------------------------------------------
-
-   Copyright (c) 2005-2014, The Android Open Source Project
-
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
-
-
-                                 Apache License
-                           Version 2.0, January 2004
-                        http://www.apache.org/licenses/
-
-   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
-
-   1. Definitions.
-
-      "License" shall mean the terms and conditions for use, reproduction,
-      and distribution as defined by Sections 1 through 9 of this document.
-
-      "Licensor" shall mean the copyright owner or entity authorized by
-      the copyright owner that is granting the License.
-
-      "Legal Entity" shall mean the union of the acting entity and all
-      other entities that control, are controlled by, or are under common
-      control with that entity. For the purposes of this definition,
-      "control" means (i) the power, direct or indirect, to cause the
-      direction or management of such entity, whether by contract or
-      otherwise, or (ii) ownership of fifty percent (50%) or more of the
-      outstanding shares, or (iii) beneficial ownership of such entity.
-
-      "You" (or "Your") shall mean an individual or Legal Entity
-      exercising permissions granted by this License.
-
-      "Source" form shall mean the preferred form for making modifications,
-      including but not limited to software source code, documentation
-      source, and configuration files.
-
-      "Object" form shall mean any form resulting from mechanical
-      transformation or translation of a Source form, including but
-      not limited to compiled object code, generated documentation,
-      and conversions to other media types.
-
-      "Work" shall mean the work of authorship, whether in Source or
-      Object form, made available under the License, as indicated by a
-      copyright notice that is included in or attached to the work
-      (an example is provided in the Appendix below).
-
-      "Derivative Works" shall mean any work, whether in Source or Object
-      form, that is based on (or derived from) the Work and for which the
-      editorial revisions, annotations, elaborations, or other modifications
-      represent, as a whole, an original work of authorship. For the purposes
-      of this License, Derivative Works shall not include works that remain
-      separable from, or merely link (or bind by name) to the interfaces of,
-      the Work and Derivative Works thereof.
-
-      "Contribution" shall mean any work of authorship, including
-      the original version of the Work and any modifications or additions
-      to that Work or Derivative Works thereof, that is intentionally
-      submitted to Licensor for inclusion in the Work by the copyright owner
-      or by an individual or Legal Entity authorized to submit on behalf of
-      the copyright owner. For the purposes of this definition, "submitted"
-      means any form of electronic, verbal, or written communication sent
-      to the Licensor or its representatives, including but not limited to
-      communication on electronic mailing lists, source code control systems,
-      and issue tracking systems that are managed by, or on behalf of, the
-      Licensor for the purpose of discussing and improving the Work, but
-      excluding communication that is conspicuously marked or otherwise
-      designated in writing by the copyright owner as "Not a Contribution."
-
-      "Contributor" shall mean Licensor and any individual or Legal Entity
-      on behalf of whom a Contribution has been received by Licensor and
-      subsequently incorporated within the Work.
-
-   2. Grant of Copyright License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      copyright license to reproduce, prepare Derivative Works of,
-      publicly display, publicly perform, sublicense, and distribute the
-      Work and such Derivative Works in Source or Object form.
-
-   3. Grant of Patent License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      (except as stated in this section) patent license to make, have made,
-      use, offer to sell, sell, import, and otherwise transfer the Work,
-      where such license applies only to those patent claims licensable
-      by such Contributor that are necessarily infringed by their
-      Contribution(s) alone or by combination of their Contribution(s)
-      with the Work to which such Contribution(s) was submitted. If You
-      institute patent litigation against any entity (including a
-      cross-claim or counterclaim in a lawsuit) alleging that the Work
-      or a Contribution incorporated within the Work constitutes direct
-      or contributory patent infringement, then any patent licenses
-      granted to You under this License for that Work shall terminate
-      as of the date such litigation is filed.
-
-   4. Redistribution. You may reproduce and distribute copies of the
-      Work or Derivative Works thereof in any medium, with or without
-      modifications, and in Source or Object form, provided that You
-      meet the following conditions:
-
-      (a) You must give any other recipients of the Work or
-          Derivative Works a copy of this License; and
-
-      (b) You must cause any modified files to carry prominent notices
-          stating that You changed the files; and
-
-      (c) You must retain, in the Source form of any Derivative Works
-          that You distribute, all copyright, patent, trademark, and
-          attribution notices from the Source form of the Work,
-          excluding those notices that do not pertain to any part of
-          the Derivative Works; and
-
-      (d) If the Work includes a "NOTICE" text file as part of its
-          distribution, then any Derivative Works that You distribute must
-          include a readable copy of the attribution notices contained
-          within such NOTICE file, excluding those notices that do not
-          pertain to any part of the Derivative Works, in at least one
-          of the following places: within a NOTICE text file distributed
-          as part of the Derivative Works; within the Source form or
-          documentation, if provided along with the Derivative Works; or,
-          within a display generated by the Derivative Works, if and
-          wherever such third-party notices normally appear. The contents
-          of the NOTICE file are for informational purposes only and
-          do not modify the License. You may add Your own attribution
-          notices within Derivative Works that You distribute, alongside
-          or as an addendum to the NOTICE text from the Work, provided
-          that such additional attribution notices cannot be construed
-          as modifying the License.
-
-      You may add Your own copyright statement to Your modifications and
-      may provide additional or different license terms and conditions
-      for use, reproduction, or distribution of Your modifications, or
-      for any such Derivative Works as a whole, provided Your use,
-      reproduction, and distribution of the Work otherwise complies with
-      the conditions stated in this License.
-
-   5. Submission of Contributions. Unless You explicitly state otherwise,
-      any Contribution intentionally submitted for inclusion in the Work
-      by You to the Licensor shall be under the terms and conditions of
-      this License, without any additional terms or conditions.
-      Notwithstanding the above, nothing herein shall supersede or modify
-      the terms of any separate license agreement you may have executed
-      with Licensor regarding such Contributions.
-
-   6. Trademarks. This License does not grant permission to use the trade
-      names, trademarks, service marks, or product names of the Licensor,
-      except as required for reasonable and customary use in describing the
-      origin of the Work and reproducing the content of the NOTICE file.
-
-   7. Disclaimer of Warranty. Unless required by applicable law or
-      agreed to in writing, Licensor provides the Work (and each
-      Contributor provides its Contributions) on an "AS IS" BASIS,
-      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
-      implied, including, without limitation, any warranties or conditions
-      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
-      PARTICULAR PURPOSE. You are solely responsible for determining the
-      appropriateness of using or redistributing the Work and assume any
-      risks associated with Your exercise of permissions under this License.
-
-   8. Limitation of Liability. In no event and under no legal theory,
-      whether in tort (including negligence), contract, or otherwise,
-      unless required by applicable law (such as deliberate and grossly
-      negligent acts) or agreed to in writing, shall any Contributor be
-      liable to You for damages, including any direct, indirect, special,
-      incidental, or consequential damages of any character arising as a
-      result of this License or out of the use or inability to use the
-      Work (including but not limited to damages for loss of goodwill,
-      work stoppage, computer failure or malfunction, or any and all
-      other commercial damages or losses), even if such Contributor
-      has been advised of the possibility of such damages.
-
-   9. Accepting Warranty or Additional Liability. While redistributing
-      the Work or Derivative Works thereof, You may choose to offer,
-      and charge a fee for, acceptance of support, warranty, indemnity,
-      or other liability obligations and/or rights consistent with this
-      License. However, in accepting such obligations, You may act only
-      on Your own behalf and on Your sole responsibility, not on behalf
-      of any other Contributor, and only if You agree to indemnify,
-      defend, and hold each Contributor harmless for any liability
-      incurred by, or claims asserted against, such Contributor by reason
-      of your accepting any such warranty or additional liability.
-
-   END OF TERMS AND CONDITIONS
-
