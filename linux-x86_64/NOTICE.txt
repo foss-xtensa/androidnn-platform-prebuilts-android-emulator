@@ -5,6 +5,7 @@ Notices for file(s):
 ./emulator-crash-service
 ./goldfish-webrtc-bridge
 ./mksdcard
+./perfetto-protozero-protoc-plugin
 ./qemu-img
 ./qemu/linux-x86_64/qemu-system-aarch64
 ./qemu/linux-x86_64/qemu-system-aarch64-headless
@@ -14,6 +15,7 @@ Notices for file(s):
 ./qemu/linux-x86_64/qemu-system-i386-headless
 ./qemu/linux-x86_64/qemu-system-x86_64
 ./qemu/linux-x86_64/qemu-system-x86_64-headless
+./qsn
 lib64/libc++.so
 lib64/libc++.so.1
 The notices is included for the library: libc++
@@ -255,6 +257,7 @@ Notices for file(s):
 ./qemu/linux-x86_64/qemu-system-i386-headless
 ./qemu/linux-x86_64/qemu-system-x86_64
 ./qemu/linux-x86_64/qemu-system-x86_64-headless
+./qsn
 OpenglRender.so
 emugl_common.so
 The notices is included for the library: lz4
@@ -279,6 +282,7 @@ Notices for file(s):
 ./emulator-check
 ./emulator-crash-service
 ./goldfish-webrtc-bridge
+./qemu-img
 ./qemu/linux-x86_64/qemu-system-aarch64
 ./qemu/linux-x86_64/qemu-system-aarch64-headless
 ./qemu/linux-x86_64/qemu-system-armel
@@ -287,7 +291,9 @@ Notices for file(s):
 ./qemu/linux-x86_64/qemu-system-i386-headless
 ./qemu/linux-x86_64/qemu-system-x86_64
 ./qemu/linux-x86_64/qemu-system-x86_64-headless
+./qsn
 OpenglRender.so
+emugl_common.so
 The notices is included for the library: libvpx
 
 ===========================================================
@@ -361,6 +367,7 @@ Notices for file(s):
 ./qemu/linux-x86_64/qemu-system-i386-headless
 ./qemu/linux-x86_64/qemu-system-x86_64
 ./qemu/linux-x86_64/qemu-system-x86_64-headless
+./qsn
 OpenglRender.so
 emugl_common.so
 The notices is included for the library: uuid
@@ -401,6 +408,7 @@ Notices for file(s):
 ./emulator-check
 ./emulator-crash-service
 ./goldfish-webrtc-bridge
+./qemu-img
 ./qemu/linux-x86_64/qemu-system-aarch64
 ./qemu/linux-x86_64/qemu-system-aarch64-headless
 ./qemu/linux-x86_64/qemu-system-armel
@@ -409,7 +417,9 @@ Notices for file(s):
 ./qemu/linux-x86_64/qemu-system-i386-headless
 ./qemu/linux-x86_64/qemu-system-x86_64
 ./qemu/linux-x86_64/qemu-system-x86_64-headless
+./qsn
 OpenglRender.so
+emugl_common.so
 The notices is included for the library: ext4_utils
 
 ===========================================================
@@ -428,44 +438,11 @@ limitations under the License.
 
 ===========================================================
 Notices for file(s):
+./emulator
+./emulator-check
+./emulator-crash-service
 ./goldfish-webrtc-bridge
-The notices is included for the library: webrtc
-
-===========================================================
-Copyright (c) 2011, The WebRTC project authors. All rights reserved.
-
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are
-met:
-
-  * Redistributions of source code must retain the above copyright
-    notice, this list of conditions and the following disclaimer.
-
-  * Redistributions in binary form must reproduce the above copyright
-    notice, this list of conditions and the following disclaimer in
-    the documentation and/or other materials provided with the
-    distribution.
-
-  * Neither the name of Google nor the names of its contributors may
-    be used to endorse or promote products derived from this software
-    without specific prior written permission.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
-"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
-LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
-A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
-HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
-SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
-LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
-DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
-THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
-(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-
-===========================================================
-Notices for file(s):
-./goldfish-webrtc-bridge
+./qemu-img
 ./qemu/linux-x86_64/qemu-system-aarch64
 ./qemu/linux-x86_64/qemu-system-aarch64-headless
 ./qemu/linux-x86_64/qemu-system-armel
@@ -474,6 +451,9 @@ Notices for file(s):
 ./qemu/linux-x86_64/qemu-system-i386-headless
 ./qemu/linux-x86_64/qemu-system-x86_64
 ./qemu/linux-x86_64/qemu-system-x86_64-headless
+./qsn
+OpenglRender.so
+emugl_common.so
 The notices is included for the library: grpc
 
 ===========================================================
@@ -498,6 +478,7 @@ Notices for file(s):
 ./emulator-check
 ./emulator-crash-service
 ./goldfish-webrtc-bridge
+./qemu-img
 ./qemu/linux-x86_64/qemu-system-aarch64
 ./qemu/linux-x86_64/qemu-system-aarch64-headless
 ./qemu/linux-x86_64/qemu-system-armel
@@ -506,7 +487,9 @@ Notices for file(s):
 ./qemu/linux-x86_64/qemu-system-i386-headless
 ./qemu/linux-x86_64/qemu-system-x86_64
 ./qemu/linux-x86_64/qemu-system-x86_64-headless
+./qsn
 OpenglRender.so
+emugl_common.so
 The notices is included for the library: libpng
 
 ===========================================================
@@ -651,6 +634,7 @@ Notices for file(s):
 ./emulator-check
 ./emulator-crash-service
 ./goldfish-webrtc-bridge
+./qemu-img
 ./qemu/linux-x86_64/qemu-system-aarch64
 ./qemu/linux-x86_64/qemu-system-aarch64-headless
 ./qemu/linux-x86_64/qemu-system-armel
@@ -659,7 +643,9 @@ Notices for file(s):
 ./qemu/linux-x86_64/qemu-system-i386-headless
 ./qemu/linux-x86_64/qemu-system-x86_64
 ./qemu/linux-x86_64/qemu-system-x86_64-headless
+./qsn
 OpenglRender.so
+emugl_common.so
 The notices is included for the library: tinyobjloader
 
 ===========================================================
@@ -692,6 +678,7 @@ Notices for file(s):
 ./emulator-check
 ./emulator-crash-service
 ./goldfish-webrtc-bridge
+./qemu-img
 ./qemu/linux-x86_64/qemu-system-aarch64
 ./qemu/linux-x86_64/qemu-system-aarch64-headless
 ./qemu/linux-x86_64/qemu-system-armel
@@ -700,7 +687,9 @@ Notices for file(s):
 ./qemu/linux-x86_64/qemu-system-i386-headless
 ./qemu/linux-x86_64/qemu-system-x86_64
 ./qemu/linux-x86_64/qemu-system-x86_64-headless
+./qsn
 OpenglRender.so
+emugl_common.so
 The notices is included for the library: libjpeg
 
 ===========================================================
@@ -746,6 +735,11 @@ assumed by the product vendor.
 
 ===========================================================
 Notices for file(s):
+./emulator
+./emulator-check
+./emulator-crash-service
+./goldfish-webrtc-bridge
+./qemu-img
 ./qemu/linux-x86_64/qemu-system-aarch64
 ./qemu/linux-x86_64/qemu-system-aarch64-headless
 ./qemu/linux-x86_64/qemu-system-armel
@@ -754,6 +748,38 @@ Notices for file(s):
 ./qemu/linux-x86_64/qemu-system-i386-headless
 ./qemu/linux-x86_64/qemu-system-x86_64
 ./qemu/linux-x86_64/qemu-system-x86_64-headless
+./qsn
+OpenglRender.so
+emugl_common.so
+The notices is included for the library: upb
+
+===========================================================
+Copyright 2014 gRPC authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+
+===========================================================
+Notices for file(s):
+./qemu/linux-x86_64/qemu-system-aarch64
+./qemu/linux-x86_64/qemu-system-aarch64-headless
+./qemu/linux-x86_64/qemu-system-armel
+./qemu/linux-x86_64/qemu-system-armel-headless
+./qemu/linux-x86_64/qemu-system-i386
+./qemu/linux-x86_64/qemu-system-i386-headless
+./qemu/linux-x86_64/qemu-system-x86_64
+./qemu/linux-x86_64/qemu-system-x86_64-headless
+./qsn
 The notices is included for the library: dtc
 
 ===========================================================
@@ -820,6 +846,7 @@ Notices for file(s):
 ./emulator-check
 ./emulator-crash-service
 ./goldfish-webrtc-bridge
+./qemu-img
 ./qemu/linux-x86_64/qemu-system-aarch64
 ./qemu/linux-x86_64/qemu-system-aarch64-headless
 ./qemu/linux-x86_64/qemu-system-armel
@@ -828,7 +855,9 @@ Notices for file(s):
 ./qemu/linux-x86_64/qemu-system-i386-headless
 ./qemu/linux-x86_64/qemu-system-x86_64
 ./qemu/linux-x86_64/qemu-system-x86_64-headless
+./qsn
 OpenglRender.so
+emugl_common.so
 The notices is included for the library: nlohmann_json
 
 ===========================================================
@@ -861,6 +890,7 @@ Notices for file(s):
 ./emulator-check
 ./emulator-crash-service
 ./goldfish-webrtc-bridge
+./qemu-img
 ./qemu/linux-x86_64/qemu-system-aarch64
 ./qemu/linux-x86_64/qemu-system-aarch64-headless
 ./qemu/linux-x86_64/qemu-system-armel
@@ -869,7 +899,9 @@ Notices for file(s):
 ./qemu/linux-x86_64/qemu-system-i386-headless
 ./qemu/linux-x86_64/qemu-system-x86_64
 ./qemu/linux-x86_64/qemu-system-x86_64-headless
+./qsn
 OpenglRender.so
+emugl_common.so
 The notices is included for the library: keymaster-3
 
 ===========================================================
@@ -1093,6 +1125,7 @@ Notices for file(s):
 ./emulator-check
 ./emulator-crash-service
 ./goldfish-webrtc-bridge
+./qemu-img
 ./qemu/linux-x86_64/qemu-system-aarch64
 ./qemu/linux-x86_64/qemu-system-aarch64-headless
 ./qemu/linux-x86_64/qemu-system-armel
@@ -1101,7 +1134,9 @@ Notices for file(s):
 ./qemu/linux-x86_64/qemu-system-i386-headless
 ./qemu/linux-x86_64/qemu-system-x86_64
 ./qemu/linux-x86_64/qemu-system-x86_64-headless
+./qsn
 OpenglRender.so
+emugl_common.so
 The notices is included for the library: libwebp
 
 ===========================================================
@@ -1158,6 +1193,28 @@ constitute direct or contributory patent infringement, or inducement of
 patent infringement, then any patent rights granted to you under this License
 for these implementations of WebM shall terminate as of the date such
 litigation is filed.
+
+
+===========================================================
+Notices for file(s):
+./emulator
+lib64/gles_swiftshader/libEGL.so
+lib64/gles_swiftshader/libGLES_CM.so
+lib64/gles_swiftshader/libGLESv2.so
+The notices is included for the library: swiftshader
+
+===========================================================
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
 
 
 ===========================================================
@@ -1372,7 +1429,11 @@ The notices is included for the library: astc-codec
 
 ===========================================================
 Notices for file(s):
+./emulator
+./emulator-check
+./emulator-crash-service
 ./goldfish-webrtc-bridge
+./qemu-img
 ./qemu/linux-x86_64/qemu-system-aarch64
 ./qemu/linux-x86_64/qemu-system-aarch64-headless
 ./qemu/linux-x86_64/qemu-system-armel
@@ -1381,6 +1442,9 @@ Notices for file(s):
 ./qemu/linux-x86_64/qemu-system-i386-headless
 ./qemu/linux-x86_64/qemu-system-x86_64
 ./qemu/linux-x86_64/qemu-system-x86_64-headless
+./qsn
+OpenglRender.so
+emugl_common.so
 The notices is included for the library: address_sorting
 
 ===========================================================
@@ -1405,6 +1469,7 @@ Notices for file(s):
 ./emulator-check
 ./emulator-crash-service
 ./goldfish-webrtc-bridge
+./qemu-img
 ./qemu/linux-x86_64/qemu-system-aarch64
 ./qemu/linux-x86_64/qemu-system-aarch64-headless
 ./qemu/linux-x86_64/qemu-system-armel
@@ -1413,7 +1478,9 @@ Notices for file(s):
 ./qemu/linux-x86_64/qemu-system-i386-headless
 ./qemu/linux-x86_64/qemu-system-x86_64
 ./qemu/linux-x86_64/qemu-system-x86_64-headless
+./qsn
 OpenglRender.so
+emugl_common.so
 The notices is included for the library: libyuv
 
 ===========================================================
@@ -1450,7 +1517,11 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ===========================================================
 Notices for file(s):
+./emulator
+./emulator-check
+./emulator-crash-service
 ./goldfish-webrtc-bridge
+./qemu-img
 ./qemu/linux-x86_64/qemu-system-aarch64
 ./qemu/linux-x86_64/qemu-system-aarch64-headless
 ./qemu/linux-x86_64/qemu-system-armel
@@ -1459,6 +1530,9 @@ Notices for file(s):
 ./qemu/linux-x86_64/qemu-system-i386-headless
 ./qemu/linux-x86_64/qemu-system-x86_64
 ./qemu/linux-x86_64/qemu-system-x86_64-headless
+./qsn
+OpenglRender.so
+emugl_common.so
 The notices is included for the library: c-ares
 
 ===========================================================
@@ -1489,6 +1563,7 @@ Notices for file(s):
 ./qemu/linux-x86_64/qemu-system-i386-headless
 ./qemu/linux-x86_64/qemu-system-x86_64
 ./qemu/linux-x86_64/qemu-system-x86_64-headless
+./qsn
 OpenglRender.so
 emugl_common.so
 lib64/libtcmalloc_minimal.so.4
@@ -1583,7 +1658,11 @@ limitations under the License.
 
 ===========================================================
 Notices for file(s):
+./emulator
+./emulator-check
+./emulator-crash-service
 ./goldfish-webrtc-bridge
+./qemu-img
 ./qemu/linux-x86_64/qemu-system-aarch64
 ./qemu/linux-x86_64/qemu-system-aarch64-headless
 ./qemu/linux-x86_64/qemu-system-armel
@@ -1592,6 +1671,9 @@ Notices for file(s):
 ./qemu/linux-x86_64/qemu-system-i386-headless
 ./qemu/linux-x86_64/qemu-system-x86_64
 ./qemu/linux-x86_64/qemu-system-x86_64-headless
+./qsn
+OpenglRender.so
+emugl_common.so
 The notices is included for the library: grpc++
 
 ===========================================================
@@ -1616,6 +1698,8 @@ Notices for file(s):
 ./emulator-check
 ./emulator-crash-service
 ./goldfish-webrtc-bridge
+./perfetto-protozero-protoc-plugin
+./qemu-img
 ./qemu/linux-x86_64/qemu-system-aarch64
 ./qemu/linux-x86_64/qemu-system-aarch64-headless
 ./qemu/linux-x86_64/qemu-system-armel
@@ -1624,7 +1708,9 @@ Notices for file(s):
 ./qemu/linux-x86_64/qemu-system-i386-headless
 ./qemu/linux-x86_64/qemu-system-x86_64
 ./qemu/linux-x86_64/qemu-system-x86_64-headless
+./qsn
 OpenglRender.so
+emugl_common.so
 The notices is included for the library: libprotobuf
 
 ===========================================================
@@ -1669,6 +1755,7 @@ Notices for file(s):
 ./emulator-check
 ./emulator-crash-service
 ./goldfish-webrtc-bridge
+./qemu-img
 ./qemu/linux-x86_64/qemu-system-aarch64
 ./qemu/linux-x86_64/qemu-system-aarch64-headless
 ./qemu/linux-x86_64/qemu-system-armel
@@ -1677,7 +1764,9 @@ Notices for file(s):
 ./qemu/linux-x86_64/qemu-system-i386-headless
 ./qemu/linux-x86_64/qemu-system-x86_64
 ./qemu/linux-x86_64/qemu-system-x86_64-headless
+./qsn
 OpenglRender.so
+emugl_common.so
 The notices is included for the library: breakpad
 
 ===========================================================
@@ -1732,31 +1821,6 @@ Unicode Standard, and to make copies of this file in any form
 for internal or external distribution as long as this notice
 remains attached.
 
-
-===========================================================
-Notices for file(s):
-./qemu/linux-x86_64/qemu-system-aarch64
-./qemu/linux-x86_64/qemu-system-aarch64-headless
-./qemu/linux-x86_64/qemu-system-armel
-./qemu/linux-x86_64/qemu-system-armel-headless
-./qemu/linux-x86_64/qemu-system-i386
-./qemu/linux-x86_64/qemu-system-i386-headless
-./qemu/linux-x86_64/qemu-system-x86_64
-./qemu/linux-x86_64/qemu-system-x86_64-headless
-The notices is included for the library: glib-2.0
-
-===========================================================
-Licensed under the GNU LIBRARY GENERAL PUBLIC LICENSE, Version 2.1 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    https://www.gnu.org/licenses/lgpl-2.1
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
 
 ===========================================================
 Notices for file(s):
@@ -1976,7 +2040,11 @@ limitations under the License.
 
 ===========================================================
 Notices for file(s):
+./emulator
+./emulator-check
+./emulator-crash-service
 ./goldfish-webrtc-bridge
+./qemu-img
 ./qemu/linux-x86_64/qemu-system-aarch64
 ./qemu/linux-x86_64/qemu-system-aarch64-headless
 ./qemu/linux-x86_64/qemu-system-armel
@@ -1985,6 +2053,9 @@ Notices for file(s):
 ./qemu/linux-x86_64/qemu-system-i386-headless
 ./qemu/linux-x86_64/qemu-system-x86_64
 ./qemu/linux-x86_64/qemu-system-x86_64-headless
+./qsn
+OpenglRender.so
+emugl_common.so
 The notices is included for the library: gpr
 
 ===========================================================
@@ -2009,6 +2080,7 @@ Notices for file(s):
 ./emulator-check
 ./emulator-crash-service
 ./goldfish-webrtc-bridge
+./qemu-img
 ./qemu/linux-x86_64/qemu-system-aarch64
 ./qemu/linux-x86_64/qemu-system-aarch64-headless
 ./qemu/linux-x86_64/qemu-system-armel
@@ -2017,7 +2089,9 @@ Notices for file(s):
 ./qemu/linux-x86_64/qemu-system-i386-headless
 ./qemu/linux-x86_64/qemu-system-x86_64
 ./qemu/linux-x86_64/qemu-system-x86_64-headless
+./qsn
 OpenglRender.so
+emugl_common.so
 The notices is included for the library: LibXml2
 
 ===========================================================
@@ -2061,32 +2135,23 @@ Notices for file(s):
 ./qemu/linux-x86_64/qemu-system-i386-headless
 ./qemu/linux-x86_64/qemu-system-x86_64
 ./qemu/linux-x86_64/qemu-system-x86_64-headless
+./qsn
 OpenglRender.so
 emugl_common.so
-The notices is included for the library: libunwind
+The notices is included for the library: glib-2.0
 
 ===========================================================
-Copyright (c) 2002 Hewlett-Packard Co.
+Licensed under the GNU LIBRARY GENERAL PUBLIC LICENSE, Version 2.1 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
 
-Permission is hereby granted, free of charge, to any person obtaining
-a copy of this software and associated documentation files (the
-"Software"), to deal in the Software without restriction, including
-without limitation the rights to use, copy, modify, merge, publish,
-distribute, sublicense, and/or sell copies of the Software, and to
-permit persons to whom the Software is furnished to do so, subject to
-the following conditions:
+    https://www.gnu.org/licenses/lgpl-2.1
 
-The above copyright notice and this permission notice shall be
-included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
-LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
-OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
-WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
 
 ===========================================================
 Notices for file(s):
@@ -2094,6 +2159,7 @@ Notices for file(s):
 ./emulator-check
 ./emulator-crash-service
 ./goldfish-webrtc-bridge
+./qemu-img
 ./qemu/linux-x86_64/qemu-system-aarch64
 ./qemu/linux-x86_64/qemu-system-aarch64-headless
 ./qemu/linux-x86_64/qemu-system-armel
@@ -2102,7 +2168,9 @@ Notices for file(s):
 ./qemu/linux-x86_64/qemu-system-i386-headless
 ./qemu/linux-x86_64/qemu-system-x86_64
 ./qemu/linux-x86_64/qemu-system-x86_64-headless
+./qsn
 OpenglRender.so
+emugl_common.so
 The notices is included for the library: ffmpeg
 
 ===========================================================
@@ -2128,6 +2196,7 @@ Notices for file(s):
 ./emulator-check
 ./emulator-crash-service
 ./goldfish-webrtc-bridge
+./qemu-img
 ./qemu/linux-x86_64/qemu-system-aarch64
 ./qemu/linux-x86_64/qemu-system-aarch64-headless
 ./qemu/linux-x86_64/qemu-system-armel
@@ -2136,7 +2205,9 @@ Notices for file(s):
 ./qemu/linux-x86_64/qemu-system-i386-headless
 ./qemu/linux-x86_64/qemu-system-x86_64
 ./qemu/linux-x86_64/qemu-system-x86_64-headless
+./qsn
 OpenglRender.so
+emugl_common.so
 The notices is included for the library: picosha2
 
 ===========================================================
@@ -2169,6 +2240,7 @@ Notices for file(s):
 ./emulator-check
 ./emulator-crash-service
 ./goldfish-webrtc-bridge
+./qemu-img
 ./qemu/linux-x86_64/qemu-system-aarch64
 ./qemu/linux-x86_64/qemu-system-aarch64-headless
 ./qemu/linux-x86_64/qemu-system-armel
@@ -2177,7 +2249,9 @@ Notices for file(s):
 ./qemu/linux-x86_64/qemu-system-i386-headless
 ./qemu/linux-x86_64/qemu-system-x86_64
 ./qemu/linux-x86_64/qemu-system-x86_64-headless
+./qsn
 OpenglRender.so
+emugl_common.so
 The notices is included for the library: hostapd
 
 ===========================================================
@@ -2283,6 +2357,7 @@ Notices for file(s):
 ./emulator-check
 ./emulator-crash-service
 ./goldfish-webrtc-bridge
+./qemu-img
 ./qemu/linux-x86_64/qemu-system-aarch64
 ./qemu/linux-x86_64/qemu-system-aarch64-headless
 ./qemu/linux-x86_64/qemu-system-armel
@@ -2291,7 +2366,9 @@ Notices for file(s):
 ./qemu/linux-x86_64/qemu-system-i386-headless
 ./qemu/linux-x86_64/qemu-system-x86_64
 ./qemu/linux-x86_64/qemu-system-x86_64-headless
+./qsn
 OpenglRender.so
+emugl_common.so
 The notices is included for the library: libselinux
 
 ===========================================================
@@ -2366,6 +2443,7 @@ Notices for file(s):
 ./emulator-check
 ./emulator-crash-service
 ./goldfish-webrtc-bridge
+./qemu-img
 ./qemu/linux-x86_64/qemu-system-aarch64
 ./qemu/linux-x86_64/qemu-system-aarch64-headless
 ./qemu/linux-x86_64/qemu-system-armel
@@ -2374,7 +2452,9 @@ Notices for file(s):
 ./qemu/linux-x86_64/qemu-system-i386-headless
 ./qemu/linux-x86_64/qemu-system-x86_64
 ./qemu/linux-x86_64/qemu-system-x86_64-headless
+./qsn
 OpenglRender.so
+emugl_common.so
 The notices is included for the library: libcurl
 
 ===========================================================
@@ -2408,6 +2488,7 @@ Notices for file(s):
 ./emulator-check
 ./emulator-crash-service
 ./goldfish-webrtc-bridge
+./qemu-img
 ./qemu/linux-x86_64/qemu-system-aarch64
 ./qemu/linux-x86_64/qemu-system-aarch64-headless
 ./qemu/linux-x86_64/qemu-system-armel
@@ -2416,7 +2497,9 @@ Notices for file(s):
 ./qemu/linux-x86_64/qemu-system-i386-headless
 ./qemu/linux-x86_64/qemu-system-x86_64
 ./qemu/linux-x86_64/qemu-system-x86_64-headless
+./qsn
 OpenglRender.so
+emugl_common.so
 The notices is included for the library: boringssl
 
 ===========================================================
@@ -2679,6 +2762,8 @@ Notices for file(s):
 ./emulator-check
 ./emulator-crash-service
 ./goldfish-webrtc-bridge
+./perfetto-protozero-protoc-plugin
+./qemu-img
 ./qemu/linux-x86_64/qemu-system-aarch64
 ./qemu/linux-x86_64/qemu-system-aarch64-headless
 ./qemu/linux-x86_64/qemu-system-armel
@@ -2687,7 +2772,9 @@ Notices for file(s):
 ./qemu/linux-x86_64/qemu-system-i386-headless
 ./qemu/linux-x86_64/qemu-system-x86_64
 ./qemu/linux-x86_64/qemu-system-x86_64-headless
+./qsn
 OpenglRender.so
+emugl_common.so
 The notices is included for the library: protobuf
 
 ===========================================================
@@ -2724,113 +2811,6 @@ Code generated by the Protocol Buffer compiler is owned by the owner
 of the input file used when generating it.  This code is not
 standalone and requires a support library to be linked with it.  This
 support library is itself covered by the above license.
-
-
-===========================================================
-Notices for file(s):
-./emulator
-lib64/gles_mesa/libGL.so
-lib64/gles_mesa/libGL.so.1
-The notices is included for the library: mesa
-
-===========================================================
-Copyright (C) 1999-2007  Brian Paul   All Rights Reserved.
-
-Permission is hereby granted, free of charge, to any person obtaining a
-copy of this software and associated documentation files (the "Software"),
-to deal in the Software without restriction, including without limitation
-the rights to use, copy, modify, merge, publish, distribute, sublicense,
-and/or sell copies of the Software, and to permit persons to whom the
-Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included
-in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
-OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL
-THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-===========================================================
-Notices for file(s):
-./qemu/linux-x86_64/qemu-system-aarch64
-./qemu/linux-x86_64/qemu-system-aarch64-headless
-./qemu/linux-x86_64/qemu-system-armel
-./qemu/linux-x86_64/qemu-system-armel-headless
-./qemu/linux-x86_64/qemu-system-i386
-./qemu/linux-x86_64/qemu-system-i386-headless
-./qemu/linux-x86_64/qemu-system-x86_64
-./qemu/linux-x86_64/qemu-system-x86_64-headless
-The notices is included for the library: pixman-1
-
-===========================================================
-The following is the MIT license, agreed upon by most contributors.
-Copyright holders of new code should use this license statement where
-possible. They may also add themselves to the list below.
-
-/*
- * Copyright 1987, 1988, 1989, 1998  The Open Group
- * Copyright 1987, 1988, 1989 Digital Equipment Corporation
- * Copyright 1999, 2004, 2008 Keith Packard
- * Copyright 2000 SuSE, Inc.
- * Copyright 2000 Keith Packard, member of The XFree86 Project, Inc.
- * Copyright 2004, 2005, 2007, 2008, 2009, 2010 Red Hat, Inc.
- * Copyright 2004 Nicholas Miell
- * Copyright 2005 Lars Knoll & Zack Rusin, Trolltech
- * Copyright 2005 Trolltech AS
- * Copyright 2007 Luca Barbato
- * Copyright 2008 Aaron Plattner, NVIDIA Corporation
- * Copyright 2008 Rodrigo Kumpera
- * Copyright 2008 André Tupinambá
- * Copyright 2008 Mozilla Corporation
- * Copyright 2008 Frederic Plourde
- * Copyright 2009, Oracle and/or its affiliates. All rights reserved.
- * Copyright 2009, 2010 Nokia Corporation
- *
- * Permission is hereby granted, free of charge, to any person obtaining a
- * copy of this software and associated documentation files (the "Software"),
- * to deal in the Software without restriction, including without limitation
- * the rights to use, copy, modify, merge, publish, distribute, sublicense,
- * and/or sell copies of the Software, and to permit persons to whom the
- * Software is furnished to do so, subject to the following conditions:
- *
- * The above copyright notice and this permission notice (including the next
- * paragraph) shall be included in all copies or substantial portions of the
- * Software.
- * 
- * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
- * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
- * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL
- * THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
- * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
- * FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
- * DEALINGS IN THE SOFTWARE.
- */
-
-
-===========================================================
-Notices for file(s):
-./emulator
-lib64/gles_swiftshader/libEGL.so
-lib64/gles_swiftshader/libGLES_CM.so
-lib64/gles_swiftshader/libGLESv2.so
-The notices is included for the library: swiftshader
-
-===========================================================
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
 
 
 ===========================================================
@@ -3074,5 +3054,134 @@ glslangProper
 //
 
 
+
+
+===========================================================
+Notices for file(s):
+./emulator
+lib64/gles_mesa/libGL.so
+lib64/gles_mesa/libGL.so.1
+The notices is included for the library: mesa
+
+===========================================================
+Copyright (C) 1999-2007  Brian Paul   All Rights Reserved.
+
+Permission is hereby granted, free of charge, to any person obtaining a
+copy of this software and associated documentation files (the "Software"),
+to deal in the Software without restriction, including without limitation
+the rights to use, copy, modify, merge, publish, distribute, sublicense,
+and/or sell copies of the Software, and to permit persons to whom the
+Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included
+in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL
+THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+===========================================================
+Notices for file(s):
+./qemu/linux-x86_64/qemu-system-aarch64
+./qemu/linux-x86_64/qemu-system-aarch64-headless
+./qemu/linux-x86_64/qemu-system-armel
+./qemu/linux-x86_64/qemu-system-armel-headless
+./qemu/linux-x86_64/qemu-system-i386
+./qemu/linux-x86_64/qemu-system-i386-headless
+./qemu/linux-x86_64/qemu-system-x86_64
+./qemu/linux-x86_64/qemu-system-x86_64-headless
+./qsn
+The notices is included for the library: pixman-1
+
+===========================================================
+The following is the MIT license, agreed upon by most contributors.
+Copyright holders of new code should use this license statement where
+possible. They may also add themselves to the list below.
+
+/*
+ * Copyright 1987, 1988, 1989, 1998  The Open Group
+ * Copyright 1987, 1988, 1989 Digital Equipment Corporation
+ * Copyright 1999, 2004, 2008 Keith Packard
+ * Copyright 2000 SuSE, Inc.
+ * Copyright 2000 Keith Packard, member of The XFree86 Project, Inc.
+ * Copyright 2004, 2005, 2007, 2008, 2009, 2010 Red Hat, Inc.
+ * Copyright 2004 Nicholas Miell
+ * Copyright 2005 Lars Knoll & Zack Rusin, Trolltech
+ * Copyright 2005 Trolltech AS
+ * Copyright 2007 Luca Barbato
+ * Copyright 2008 Aaron Plattner, NVIDIA Corporation
+ * Copyright 2008 Rodrigo Kumpera
+ * Copyright 2008 André Tupinambá
+ * Copyright 2008 Mozilla Corporation
+ * Copyright 2008 Frederic Plourde
+ * Copyright 2009, Oracle and/or its affiliates. All rights reserved.
+ * Copyright 2009, 2010 Nokia Corporation
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a
+ * copy of this software and associated documentation files (the "Software"),
+ * to deal in the Software without restriction, including without limitation
+ * the rights to use, copy, modify, merge, publish, distribute, sublicense,
+ * and/or sell copies of the Software, and to permit persons to whom the
+ * Software is furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice (including the next
+ * paragraph) shall be included in all copies or substantial portions of the
+ * Software.
+ * 
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL
+ * THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+ * FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+ * DEALINGS IN THE SOFTWARE.
+ */
+
+
+===========================================================
+Notices for file(s):
+./emulator
+./emulator-check
+./emulator-crash-service
+./goldfish-webrtc-bridge
+./qemu-img
+./qemu/linux-x86_64/qemu-system-aarch64
+./qemu/linux-x86_64/qemu-system-aarch64-headless
+./qemu/linux-x86_64/qemu-system-armel
+./qemu/linux-x86_64/qemu-system-armel-headless
+./qemu/linux-x86_64/qemu-system-i386
+./qemu/linux-x86_64/qemu-system-i386-headless
+./qemu/linux-x86_64/qemu-system-x86_64
+./qemu/linux-x86_64/qemu-system-x86_64-headless
+./qsn
+OpenglRender.so
+emugl_common.so
+The notices is included for the library: libunwind
+
+===========================================================
+Copyright (c) 2002 Hewlett-Packard Co.
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
