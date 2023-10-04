@@ -1,0 +1,9 @@
+libdir=/workspace/yegoshin/qemu/emu-34-release/external/qemu/objs/distribution/emulator/lib
+includedir=/workspace/yegoshin/qemu/emu-34-release/external/qemu/objs/distribution/emulator/include
+
+Name: FlatBuffers
+Description: Memory Efficient Serialization Library
+Version: 2.0.7
+
+Libs: -L${libdir} -lflatbuffers
+Cflags: -I${includedir}
